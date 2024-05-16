@@ -1,2 +1,2 @@
 # Dataset_MOCAP_UNIMORE
-Repository for scientific publication
+This repository contains the internal dataset used for experiments. The .mkv files contain information about more than one lift, so in each folder are stored information about each lifting activity. For each acquisition is available the .json (from Azure Kinect) and .csv (from G4 Mocap Suit) files. To get the access to the original .mkv files please contact us: chiara.forgione@unimore.it - antoniomaria.coruzzolo@unimore.it
